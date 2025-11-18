@@ -71,6 +71,11 @@ const Login = () => {
 						<p className="text-center text-base text-gray-700 ">
 							Keep all your credential safe.
 						</p>
+						<br/>
+						<p className="text-center text-base text-gray-700 ">
+							<b>Gmail:</b> admin@mts.com <br />
+							<b>Password:</b> 662f32ffd1303cc
+						</p>
 					</div>
 					
 					<div className="flex flex-col gap-y-5">
